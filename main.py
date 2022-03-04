@@ -26,14 +26,3 @@ if __name__ == "__main__":
         path = "output/{}.{}".format(string, filenameExtension)
         
         img.save(path)
-        
-        
-            
-        
-        
-        
-        
-        
-        
-
-        
