@@ -2,8 +2,8 @@ import os.path
 import glob
 from PIL import Image 
 
-trimr = 10
-triml = 10
+trimr = 13
+triml = 18
 
 filenameExtension = "png"
 
